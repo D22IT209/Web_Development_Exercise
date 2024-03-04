@@ -14,7 +14,7 @@ function createCard(title, cName, views, monthsOld, duration, thumbnail) {
     <div class="image">
         <img src="${thumbnail}"
             alt="">
-        <div class="capsule">${duration}</div>
+        <div class="capsule"> ${duration}</div>
     </div>
     <div class="text">
         <h1>${title}</h1>
